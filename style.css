@@ -37,3 +37,76 @@ span{
     text-align: center;
     font-size: 50px;
 }
+.section2{
+    display: flex;
+    padding: 10%;
+}
+.section2-div1{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    background-image: url(illustrators/illustrator-1.png);
+    background-size: 50%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: lightskyblue;
+    box-shadow: 10px 20px 40px lightseagreen;
+    border-radius: 10px;
+    margin-left: 20px;  
+}
+.section2-div2{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    background-color: lavender;
+    box-shadow: 10px 20px 40px hotpink;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.section2-div3{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    background-color: palegreen;
+    box-shadow: 10px 20px 40px mediumaquamarine;
+    border-radius: 10px;
+    margin-left: 30px;}
+.section3-div1{
+    width: 50%;
+   
+}
+.section3-div1 img{
+    width:80%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    border-radius: 40%;
+}
+.section3-div2{
+    width: 50%;
+}
+.section3{ display: flex;}
+.button2{
+    border-radius: 10px;
+    color: honeydew;
+    background-image: linear-gradient(plum, hotpink);
+    padding: 15px 50px;
+    font-weight: 900;
+    text-decoration: none;
+}
+.size{ font-size: 50px;}
+.section4-div1{ width: 50%; margin-left: 30px;}
+.section4-div2{ width: 50%;
+    background-image: url(logos/shape-4.png);}
+.section4{ display: flex;}
+.section4-div2 img{
+    width: 50%;
+    margin-top: 60px; margin-left: 80px;
+}
+.button3{ border-radius: 10px;
+    color: honeydew;
+    background-image: linear-gradient(plum, hotpink);
+    padding: 15px 50px;
+    font-weight: 900;
+    text-decoration: none;
+
+}
