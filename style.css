@@ -50,8 +50,8 @@ span{
     background-size: 50%;
     background-position: top;
     background-repeat: no-repeat;
-    background-color: lightskyblue;
-    box-shadow: 10px 20px 40px lightseagreen;
+    background-color: lightblue;
+    box-shadow: 10px 20px 40px lightcyan;
     border-radius: 10px;
     margin-left: 20px;  
 }
@@ -60,7 +60,7 @@ span{
     height: 300px;
     padding: 20px;
     background-color: lavender;
-    box-shadow: 10px 20px 40px hotpink;
+    box-shadow: 10px 20px 40px lightpink;
     border-radius: 10px;
     margin-left: 30px;
 }
@@ -68,8 +68,8 @@ span{
     width: 400px;
     height: 300px;
     padding: 20px;
-    background-color: palegreen;
-    box-shadow: 10px 20px 40px mediumaquamarine;
+    background-color: mistyrose;
+    box-shadow: 10px 20px 40px ivory;
     border-radius: 10px;
     margin-left: 30px;}
 .section3-div1{
