@@ -108,5 +108,27 @@ span{
     padding: 15px 50px;
     font-weight: 900;
     text-decoration: none;
-
 }
+.section5{
+    display: flex;
+}
+.button4{ border-radius: 10px;
+    color: honeydew;
+    background-image: linear-gradient(plum, hotpink);
+    padding: 15px 50px;
+    font-weight: 900;
+    text-decoration: none;
+}
+.section6-div1{
+    width: 50%;
+}
+.section6-div2{  width: 50%;}
+.section6-div1 img{
+    width:80%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    border-radius: 40%;
+}
+.center2{ text-align: center;}
+#lang1{ color: cadetblue;}
+#lang2{ color: cadetblue;}
